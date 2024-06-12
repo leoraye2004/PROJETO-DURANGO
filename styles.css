@@ -1,0 +1,201 @@
+p{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+
+.Durangocor{
+    color: red;
+}
+.col-12{
+    color: red;
+}
+.col-md-3{
+    color: red;
+}
+.col-md-6{
+    color: red;
+}
+.col-md-4{
+    color: red;
+}
+.barra{
+    height: 25px;
+    background-color:#165C15 ;
+}
+nav
+{
+    
+    height: 90px;
+    background-color:#A60303;
+    
+}
+
+.txt-nav
+{
+    margin-top:4.80%;
+    
+}
+
+.logo
+{
+
+    padding-top: 18%;    
+    width: 130px;
+}
+
+footer
+{
+    height: 222px;   
+    align-items: self-end; 
+    background-color: #A60303; 
+}
+.well{
+    background-color: white;
+}
+
+.btn1{
+    margin-left: 265px;
+    margin-top: 75px;
+    border-color: white;
+    padding: 100px;
+    font-size: 20px;
+    
+}
+.btn2{
+    margin-top: 75px;
+    margin-left: 100px;
+    padding: 100px;
+    font-size: 20px;
+    border-color: white;
+
+}
+.btn3{
+    margin-left: 100px;
+    padding: 100px;
+    font-size: 20px;
+    margin-top: 75px;
+    border-color: white;
+}
+.btn4{
+    margin-left: 265px;
+    margin-top: 75px;
+    border-color: white;
+    padding: 100px;
+    font-size: 20px;  
+}
+.btn5{
+    margin-top: 75px;
+    margin-left: 100px;
+    padding: 100px;
+    font-size: 20px;
+    border-color: white;
+}
+.btn6{
+    margin-left: 100px;
+    padding: 100px;
+    font-size: 20px;
+    margin-top: 75px;
+    border-color: white;
+}
+.btn7{
+    margin-left: 265px;
+    margin-top: 75px;
+    border-color: white;
+    padding: 100px;
+    font-size: 20px;
+}
+.btn8{
+    margin-top: 75px;
+    margin-left: 100px;
+    padding: 100px;
+    font-size: 20px;
+    border-color: white;
+}
+.btn9{
+    margin-left: 100px;
+    padding: 100px;
+    font-size: 20px;
+    margin-top: 75px;
+    border-color: white;
+}
+.btn10{
+    margin-left: 265px;
+    margin-top: 75px;
+    border-color: white;
+    padding: 100px;
+    font-size: 20px;
+}
+.btn11{
+    margin-top: 75px;
+    margin-left: 100px;
+    padding: 100px;
+    font-size: 20px;
+    border-color: white;
+}
+.btn12{
+    margin-left: 100px;
+    padding: 100px;
+    font-size: 20px;
+    margin-top: 75px;
+    border-color: white;
+}
+.btn12{
+    margin-left: 100px;
+    padding: 100px;
+    font-size: 20px;
+    margin-top: 75px;
+    border-color: white;
+    
+}
+.btn13{
+    margin-left: 265px;
+    margin-top: 75px;
+    border-color: white;
+    padding: 100px;
+    font-size: 20px;
+}
+.btn14{
+    margin-top: 75px;
+    margin-left: 100px;
+    padding: 100px;
+    font-size: 20px;
+    border-color: white;
+}
+.btn15{
+    margin-left: 100px;
+    padding: 100px;
+    font-size: 20px;
+    margin-top: 75px;
+    border-color: white;
+}
+.Tacos{
+    margin-right: 1280px;
+    margin-top: 90px;
+    font-size: 20px;
+}
+.Quesadilhas{
+    margin-right: 1280px;
+    margin-top: 90px;
+    font-size: 20px;
+}
+.Nachos{
+    margin-right: 1280px;
+    margin-top: 90px;
+    font-size: 20px;
+}
+.Burritos{
+    margin-right: 1280px;
+    margin-top: 90px;
+    font-size: 20px;
+}
+.Bebidas{
+    margin-right: 1280px;
+    margin-top: 90px;
+    font-size: 20px; 
+}
+.container{
+    margin-top: 100px;
+}
+
